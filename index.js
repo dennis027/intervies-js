@@ -5,20 +5,7 @@ let a = function repeatorNumber(array){
    
 }
 
-function dominator(a){
 
-    console.log(a)
- 
-    let count = 0;
-
-    array.forEach(element => {
-      if (element === 3) {
-        count += 1;
-      }
-    });
-    
-    console.log(count);
-}
 
 
 
